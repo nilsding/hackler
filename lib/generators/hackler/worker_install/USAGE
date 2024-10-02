@@ -1,0 +1,5 @@
+Description:
+    Installs Hackler in `worker` mode
+
+Example:
+    bin/rails generate hackler:worker_install
